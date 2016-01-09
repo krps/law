@@ -10,7 +10,7 @@
 * [Russian](./0_CRLF_Statute/0_CRLF_Statute_latest_ru.md)
 * TODO: [English translation](./0_CRLF_Statute/0_CRLF_Statute_1.0_entran.md)
 
-## Структур реестра:
+## Структура реестра:
 ## Structure of the registry:
 Каждый свод норм имеет свою папку, в которой находятся все исторические ревизии данного свода.
 
