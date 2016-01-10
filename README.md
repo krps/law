@@ -12,9 +12,11 @@
 
 ## Структура реестра:
 ## Structure of the registry:
-Каждый свод норм имеет свою папку, в которой находятся все исторические ревизии данного свода.
+Каждый свод норм имеет свою папку, в которой находятся все исторические ревизии данного свода. Ссылка на самую последнюю официальную ревизии документа имеет "_latest_" суффикс. Самая последняя версия в разработке имеет суффикс "_draft_". Официальная конкретная ревизии имеет суффикс с номеров ревизии. Каждый документ имеет постфикс с 2-3 символьным ISO кодом языка ("ru", "en" и т.д.) и возможным указанием о перевод вместо оригинала "trans". Допустимые форматы документа: `TXT(*.txt), Markdown(*.md), reStructuredText(*.rst)`.
 
-Every set of rules has own subfolder which includes all historical versions of that set.
+Every set of rules has own sub-directory which includes all historical versions of that set. Link to the latest official revision of the document has "_latest_" suffix. The latest draft has "_draft_" suffix. Official revision has suffix of that revision. Each document has 2-3 symbol ISO language code ("en", "ru", etc.) and possible indication of translation instead of the original with "trans". Possible document formats: `TXT(*.txt), Markdown(*.md), reStructuredText(*.rst)`.
+
+*Примеры/Examples*: `"{name}_draft_ru.{ext}", "{name}_latest_ru.{ext}", "{name}_1.0_entrans.{ext}"`
 
 
 ## Добавление документов:
