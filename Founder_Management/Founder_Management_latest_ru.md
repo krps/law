@@ -1,1 +1,0 @@
-Founder_Management_1.0_ru.md
