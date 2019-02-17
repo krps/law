@@ -5,7 +5,7 @@
 
 ### 1. Устав "Конфедерации Разумной Правовой Свободы" / 1. Statute of "Confederation of Reasonable Legal Freedom"
 
-* [Russian](./0_CRLF_Statute/0_CRLF_Statute_1.1_ru.md)
+* [На русском](./0_CRLF_Statute/0_CRLF_Statute_1.1_ru.md)
 * TODO: English
 * TODO: Esperanto
 
@@ -13,7 +13,7 @@
 
 #### M001: Управление Основателя / Founder Governance
 
-* [Russian](./0M001_Founder_Governance/Founder_Governance_1.0_ru.md)
+* [На русском](./M001_Founder_Governance/Founder_Governance_1.0_ru.md)
 * TODO: English
 * TODO: Esperanto
 
@@ -25,7 +25,7 @@
 
 #### S2: Устав Обфускадии / Statute of Obfuscadia
 
-Зарезервировано. Reserved.
+* [На русском](./S2_Obfuscadia/Obfuscadia_1.0_ru.md)
 
 ## Структура реестра / Structure of the registry:
 
