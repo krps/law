@@ -1,1 +1,1 @@
-Founder_Management_draft_ru.md
+Founder_Management_1.0_ru.md
