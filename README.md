@@ -7,7 +7,7 @@
 
 ### 1. Устав "Конфедерации Разумной Правовой Свободы"
 ### 1. Statute of "Confederation of Reasonable Legal Freedom"
-* [Russian](./0_CRLF_Statute/0_CRLF_Statute_latest_ru.md)
+* [Russian](./0_CRLF_Statute/0_CRLF_Statute_1.1_ru.md)
 * TODO: [English translation](./0_CRLF_Statute/0_CRLF_Statute_1.0_entran.md)
 
 ## Структура реестра:
