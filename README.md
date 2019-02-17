@@ -17,6 +17,12 @@
 * TODO: English
 * TODO: Esperanto
 
+#### M002: Ревизии Модулей Права / Law Module Revisions
+
+* [На русском](./M002_LawModuleRevisions/LawModuleRevisions_1.0_ru.md)
+* TODO: English
+* TODO: Esperanto
+
 ### 3. Уставы членов / Member Statutes
 
 #### S1: Устав Государства Высоких Технологий / Statute of High Technology State
