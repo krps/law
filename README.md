@@ -1,12 +1,12 @@
 
-## Официальный реестр сводов норм "Конфедерации Разумной Правовой Свободы" (КРПС, КоРПуС) / Official registry for sets of voluntary rules of "Confederation of Reasonable Legal Freedom" (CRLF)
+## Официальный реестр сводов добровольных норм "Конфедерации Разумной Правовой Свободы" (КРПС, КоРПуС) / Official registry for sets of voluntary rules of "Confederation of Reasonable Legal Freedom" (CRLF)
 
 ## Регистр документов / Registry of documents:
 
 ### 1. Устав "Конфедерации Разумной Правовой Свободы" / 1. Statute of "Confederation of Reasonable Legal Freedom"
 
 * [На русском](./0_CRLF_Statute/0_CRLF_Statute_1.1_ru.md)
-* TODO: English
+* [In English](./0_CRLF_Statute/0_CRLF_Statute_1.1_entran.md)
 * TODO: Esperanto
 
 ### 2. Модули права / Law modules
@@ -48,13 +48,13 @@
 
 ## Структура реестра / Structure of the registry:
 
-Каждый свод норм имеет свою папку, в которой находятся все исторические ревизии данного свода. Ссылка на самую последнюю официальную ревизии документа имеет "_latest_" суффикс. Самая последняя версия в разработке имеет суффикс "_draft_". Официальная конкретная ревизии имеет суффикс с номеров ревизии. Каждый документ имеет постфикс с 2-3 символьным ISO кодом языка ("ru", "en" и т.д.) и возможным указанием о перевод вместо оригинала "trans". Допустимые форматы документа: `TXT(*.txt), Markdown(*.md), reStructuredText(*.rst)`.
+Каждый свод норм имеет свою папку, в которой находятся все исторические ревизии данного свода. Ссылка на самую последнюю официальную ревизию документа имеет "_latest_" суффикс. Самая последняя версия в разработке имеет суффикс "_draft_". Официальная конкретная ревизии имеет суффикс с номером ревизии. Каждый документ имеет постфикс с 2-3 символьным ISO кодом языка ("ru", "en" и т.д.) и возможным указанием о перевод вместо оригинала "trans". Допустимые форматы документа: `TXT(*.txt), Markdown(*.md), reStructuredText(*.rst)`.
 
 Модули права имеют порядковый номер и начинаются с латинской буквы "M". Уставы членов начинаются с литеры "S".
 
 Every set of rules has own sub-directory which includes all historical versions of that set. Link to the latest official revision of the document has "_latest_" suffix. The latest draft has "_draft_" suffix. Official revision has suffix of that revision. Each document has 2-3 symbol ISO language code ("en", "ru", etc.) and possible indication of translation instead of the original with "trans". Possible document formats: `TXT(*.txt), Markdown(*.md), reStructuredText(*.rst)`.
 
-Law modules have sequential number and start with latin letter "M". Member statutes start from letter "S".
+Law modules have sequential number and start with Latin letter "M". Member statutes start from letter "S".
 
 *Примеры/Examples*: `"{name}_draft_ru.{ext}", "{name}_latest_ru.{ext}", "{name}_1.0_entrans.{ext}"`
 
