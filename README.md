@@ -29,6 +29,13 @@
 * TODO: English
 * TODO: Esperanto
 
+#### M004: Меритократия ГВТ / HTS Meritocracy
+
+* [На русском](./M004_HTSMeritocracy/HTSMeritocracy_1.0_ru.md)
+* TODO: English
+* TODO: Esperanto
+
+
 ### 3. Уставы членов / Member Statutes
 
 #### S1: Устав Государства Высоких Технологий / Statute of High Technology State
