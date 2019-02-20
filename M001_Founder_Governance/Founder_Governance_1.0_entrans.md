@@ -27,3 +27,5 @@ This module of law defines the set of norms of an authoritarian-dictatorial type
 # 4. If there is more than one founder, then the procedure for agreement between the founders and decision making is determined by the state's Statute. In this case, the Founder means the aggregate of all the founders.
 
 # 5. It is highly desirable to have a tool for expression of free will of citizens as a means of feedback.
+
+== END OF DOC ==

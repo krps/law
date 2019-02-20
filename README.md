@@ -7,7 +7,6 @@
 
 * [На русском](./0_CRLF_Statute/0_CRLF_Statute_1.1_ru.md)
 * [In English](./0_CRLF_Statute/0_CRLF_Statute_1.1_entran.md)
-* TODO: Esperanto
 
 ### 2. Модули права / Law modules
 
@@ -15,31 +14,26 @@
 
 * [На русском](./M001_Founder_Governance/Founder_Governance_1.0_ru.md)
 * [In English](./M001_Founder_Governance/Founder_Governance_1.0_entrans.md)
-* TODO: Esperanto
 
 #### M002: Ревизии Модулей Права / Law Module Revisions
 
 * [На русском](./M002_LawModuleRevisions/LawModuleRevisions_1.0_ru.md)
-* TODO: English
-* TODO: Esperanto
+* [In English](./M002_LawModuleRevisions/LawModuleRevisions_1.0_entrans.md)
 
-#### M003: Смена Основателя / Founder Change
+#### M003: Смена Основателя / Change of Founder
 
 * [На русском](./M003_FounderChange/FounderChange_1.0_ru.md)
-* TODO: English
-* TODO: Esperanto
+* [In English](./M003_FounderChange/FounderChange_1.0_entrans.md)
 
 #### M004: Меритократия ГВТ / HTS Meritocracy
 
 * [На русском](./M004_HTSMeritocracy/HTSMeritocracy_1.0_ru.md)
-* TODO: English
-* TODO: Esperanto
+* [In English](./M004_HTSMeritocracy/HTSMeritocracy_1.0_entrans.md)
 
-#### M005: Интеграция c агрессором / Integration with Agressors
+#### M005: Интеграция c агрессором / Integration with Aggressors
 
-* [На русском](./M005_IntegrationWithAgressors/IntegrationWithAgressors_1.0_ru.md)
-* TODO: English
-* TODO: Esperanto
+* [На русском](./M005_IntegrationWithAggressors/IntegrationWithAggressors_1.0_ru.md)
+* [In English](./M005_IntegrationWithAggressors/IntegrationWithAggressors_1.0_entrans.md)
 
 
 ### 3. Уставы членов / Member Statutes
