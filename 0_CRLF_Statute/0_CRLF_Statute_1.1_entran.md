@@ -218,3 +218,4 @@ The norms set out below bring human kind back to the origins of law before the c
 ## 5.2. The adoption of this set of norms is equivalent to membership in the Confederation.
 ## 5.3. Official registration of a member of the Confederation takes place by providing the author with a copy of this document, signed with an electronic signature of any open format, indicating the full name, place and date of birth.
 
+== END OF DOC ==

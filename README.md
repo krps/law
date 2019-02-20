@@ -51,6 +51,7 @@
 #### S2: Устав Обфускадии / Statute of Obfuscadia
 
 * [На русском](./S2_Obfuscadia/Obfuscadia_1.0_ru.md)
+* [In English](./S2_Obfuscadia/Obfuscadia_1.0_entrans.md)
 
 ## Структура реестра / Structure of the registry:
 
