@@ -35,6 +35,12 @@
 * TODO: English
 * TODO: Esperanto
 
+#### M005: Интеграция c агрессором / Integration with Agressors
+
+* [На русском](./M005_IntegrationWithAgressors/IntegrationWithAgressors_1.0_ru.md)
+* TODO: English
+* TODO: Esperanto
+
 
 ### 3. Уставы членов / Member Statutes
 
