@@ -42,6 +42,8 @@
 
 Зарезервировано. Reserved.
 
+В процессе переработки и разбиения на модули. In process of rewrite and separation into modules.
+
 #### S2: Устав Обфускадии / Statute of Obfuscadia
 
 * [На русском](./S2_Obfuscadia/Obfuscadia_1.0_ru.md)
