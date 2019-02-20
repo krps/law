@@ -11,10 +11,10 @@
 
 ### 2. Модули права / Law modules
 
-#### M001: Управление Основателя / Founder Governance
+#### M001: Управление Основателя / Founder's Governance
 
 * [На русском](./M001_Founder_Governance/Founder_Governance_1.0_ru.md)
-* TODO: English
+* [In English](./M001_Founder_Governance/Founder_Governance_1.0_entrans.md)
 * TODO: Esperanto
 
 #### M002: Ревизии Модулей Права / Law Module Revisions
